@@ -196,4 +196,4 @@ python3 voice_controller.py
 - Arduino 固件：`robot_firmware.ino`
 - YOLO 权重：`yolov8n.pt`
 
-如果你需要我把 README 翻译成纯英文版本，或把某些部分展开（例如详细的 Arduino 固件注释或 web 控制面板源码说明），告诉我你希望扩展的章节。
+
